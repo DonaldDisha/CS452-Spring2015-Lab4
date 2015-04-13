@@ -1,1 +1,4 @@
-name, date, description
+Donald Disha
+4/12/2015
+
+This is my shape from lab #3 with two different textures on it.
